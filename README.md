@@ -1,0 +1,1 @@
+#This project uses HTML, CSS, and JavaScript to create a dynamic weather application. It fetches weather data from an API and displays it with a user-friendly interface. The app allows users to check current weather conditions and forecasts for different locations.
